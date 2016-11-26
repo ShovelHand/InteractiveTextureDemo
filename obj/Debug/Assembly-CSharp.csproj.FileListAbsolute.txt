@@ -2,7 +2,6 @@ C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\obj\Debug\Assembly
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\Assembly-CSharp.pdb
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEditor.dll
-C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.Analytics.dll
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.dll
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.Networking.dll
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.UI.dll
@@ -18,6 +17,5 @@ C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\Uni
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\obj\Debug\Assembly-CSharp.dll
 C:\Users\Alexander\Documents\UiAChapters\PictureThisTodayDemo\obj\Debug\Assembly-CSharp.pdb
